@@ -46,5 +46,5 @@ Basado en el análisis de datos, la recomendación técnica es **vender la Tiend
 * Su alta calificación y bajos costos de envío la hacen un activo **atractivo para compradores**, facilitando una salida rápida y rentable para el Sr. Juan.
 
 ---
-**Desarrollado por:** [Tu Nombre/Usuario de GitHub]  
+**Desarrollado por:** [ANGEL-ALMANZA/]  
 *Data Science Challenge - Alura Latam*
