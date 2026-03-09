@@ -16,17 +16,17 @@ Determinar mediante indicadores clave (KPIs) qué tienda es la candidata ideal p
 
 ### 1. Desempeño Financiero (Revenue)
 Se analizó la facturación total para identificar el motor económico de la cadena.
-![Ingresos](assets/ingresos_totales.png)
+![Ingresos](assets/Ingresos Totales.png)
 * **Insight:** La **Tienda 1** es la líder en ventas ($1.15M), mientras que la **Tienda 4** presenta el volumen de ventas más bajo ($1.03M).
 
 ### 2. Satisfacción del Cliente (Rating)
 Evaluamos la calidad del servicio percibida por los usuarios.
-![Satisfaccion](assets/satisfaccion_cliente.png)
+![Satisfaccion](assets/Satisfacción.png)
 * **Insight:** La **Tienda 3** mantiene el liderazgo en satisfacción (4.05). Existe un área de riesgo en la **Tienda 1**, que a pesar de vender más, tiene la calificación más baja (3.98).
 
 ### 3. Eficiencia Logística
 Análisis del impacto de los costos de envío por unidad.
-![Envio](assets/costos_envio.png)
+![Envio](assets/Costos de Envío.png)
 * **Insight:** La **Tienda 4** es la más eficiente logísticamente (menor costo de envío), pero esto no compensa su baja rotación de ventas.
 
 ---
