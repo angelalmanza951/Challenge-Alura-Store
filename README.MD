@@ -26,7 +26,7 @@ Evaluamos la calidad del servicio percibida por los usuarios.
 
 ### 3. Eficiencia Logística
 Análisis del impacto de los costos de envío por unidad.
-![Costos de Envío](assets/Costos _de_Envío.png)
+![Costos de Envío](assets/Costos_de_Envío.png)
 * **Insight:** La **Tienda 4** es la más eficiente logísticamente (menor costo de envío), pero esto no compensa su baja rotación de ventas.
 
 ---
